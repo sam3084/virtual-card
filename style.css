@@ -48,7 +48,7 @@ border-radius:20px;
 
 @media(max-width:260px){
     .hero img{
-        height:40vw;
+        height:20vw;
         width:100%;
         object-fit:cover;
     }
